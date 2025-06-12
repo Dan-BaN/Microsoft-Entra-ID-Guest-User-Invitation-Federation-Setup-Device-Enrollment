@@ -1,0 +1,1 @@
+# Microsoft-Entra-ID-Guest-User-Invitation-Federation-Setup-Device-Enrollment
